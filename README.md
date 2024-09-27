@@ -80,7 +80,7 @@ int main() {
 
 1. **Start**
 
-2. **Class Definition
+2. **Class Definition**
    - **Define a class named `Addition`.**
 
 3. **Method Definitions**
