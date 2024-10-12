@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Function and Operator Overloading to perform Addition using Function Overloading
+//Aim:Implementation of Function and Operator Overloading to perform Addition using Function Overloading
 
 #include <iostream>
 using namespace std;
